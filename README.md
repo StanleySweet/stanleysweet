@@ -7,3 +7,5 @@
 - 🤔 I’m on Twitter https://twitter.com/stanislasdolcin
 
 ![Stan's github stats](https://github-readme-stats.vercel.app/api?username=stanleysweet&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StanleySweet&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
